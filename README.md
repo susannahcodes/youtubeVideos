@@ -9,4 +9,5 @@ A listing of my youtube videos made in Maya (Incomplete)
 
 ##Coming Soon:
 
-* Realistic Water and Radiolarians (Need to recover from archive)
+* Realistic Water and Radiolarians (Need to recover from Architecture School archive)
+* Rube Goldberg Collaboration
